@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me acnewton0716@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I graduated college at 18 and was hoemschooled my whole school career!
+- ⚡ Fun fact: I graduated college at 18 and was homeschooled my whole school career!
 
 <!---
 acn0716/acn0716 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
